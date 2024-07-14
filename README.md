@@ -5,3 +5,6 @@
 | ----- | ---- | ---- |
 | 串口 UART1 | PA   | PA9 PA10 |
 | LED   | PC   | PC13 |
+
+参考资料链接：
+- [STM32 and FreeRTOS+ CLI library](https://community.st.com/t5/stm32-mcus/stm32-and-freertos-cli-library/ta-p/693287)
